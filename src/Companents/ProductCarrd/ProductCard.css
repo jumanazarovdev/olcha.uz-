@@ -1,0 +1,22 @@
+.productsCord:hover {
+    box-shadow: 0 10px 20px 0 rgb(0, 0, 0.3);
+  }
+  
+  
+  
+  .priceMonth{
+    background-color: red;
+    padding: 1px 8px;
+    border-radius: 20px;
+    color: white;
+    display: inline-block;
+  }
+  .title{
+    font-size: 18px;
+  }
+  .productsCord .btn{
+  display: block;
+  }
+  img{
+    width: 300px;
+  }
